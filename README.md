@@ -1,16 +1,18 @@
-## Hi there 👋
+![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<!--
-**joshholly/joshholly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://raw.githubusercontent.com/joshhollt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-Here are some ideas to get you started:
+## About Me
+I'm a web developer who specializes in JavaScript and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Top Projects
+- [Vid Binge](https://github.com/joshholly/vidbinge) - A web app that lets you watch movies & shows easily
+- [Reddit Video Maker Bot](https://github.com/joshholly/RedditVideoMakerBot) - Create Reddit Videos with just one command
+
+## My Skills
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: React, Node.js, Express
+
+## Connect with Me
+- [Twitter](https://twitter.com/xss)
+- [Instagram](https://instagram.com/wafflehacker)
