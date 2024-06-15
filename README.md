@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/joshhollt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## About Me
 I'm a web developer who specializes in JavaScript and TypeScript.
