@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,linux,cloudflare,mysql,mongodb,nodejs,react,nextjs,vite,python)]
+
 ![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## About Me
