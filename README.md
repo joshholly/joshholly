@@ -2,7 +2,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,php,linux,cloudflare,mysql,mongodb,nodejs,react,nextjs,vite,python)
 
 ## Stats
-![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/joshholly/github-stats/master/generated/languages.svg)
 
 ## About Me
 I'm a web developer who specializes in JavaScript and TypeScript.
