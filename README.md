@@ -91,6 +91,7 @@ Automates turning Reddit content into videos:
 ## 📫 Connect With Me
 
 * 🐦 https://twitter.com/xss
+* 📙 https://wafflehacker.substack.com
 * 📸 https://instagram.com/wafflehacker
 
 ---
